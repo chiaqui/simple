@@ -1,1 +1,1 @@
-- [git](https://github.com/chiaqui/simple/git.html)
+- [git](https://chiaqui.github.io/simple/git.html)
